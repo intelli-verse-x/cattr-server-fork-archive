@@ -10,7 +10,6 @@
 /vendor
 /.idea
 /.vagrant
-.env
 .env.testing
 .env.sentry
 *.log
@@ -78,3 +77,4 @@ composer.phar
 erd.svg
 
 apidoc
+config.bat
